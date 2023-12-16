@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": 2,
+      "name": "emna2",
+      "email": "emna2@gmail.com",
+      "classe": "DSI 33"
+    },
+    {
+      "id": 3,
+      "name": "emna3",
+      "email": "emna3@gmail.com",
+      "classe": "DSI 33"
+    },
+    {
+      "id": 4,
+      "name": "emna4",
+      "email": "emna4@gmail.com",
+      "classe": "DSI 31"
+    },
+    {
+      "id": 5,
+      "name": "emna5",
+      "email": "emna5@gmail.com",
+      "classe": "DSI 34"
+    },
+    {
+      "id": 6,
+      "name": "emmna",
+      "email": "emmna@gmail.com",
+      "classe": "DSI 35"
+    },
+    {
+      "id": 7,
+      "name": "Emna1",
+      "email": "emna1dashe01@gmail.com",
+      "classe": "DSI 34"
+    }
+  ]
+}
